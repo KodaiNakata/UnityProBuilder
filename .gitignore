@@ -1,0 +1,5 @@
+ProBuilder/Library/Artifacts/*
+*.log
+ProBuilder/Temp/*
+ProBuilder/Library/ShaderCache/*
+*.tar.7z
