@@ -6,5 +6,8 @@
 # 樽
 ![image](https://user-images.githubusercontent.com/22285365/128014210-2771bb4d-0b41-412d-99d0-6d2cb5f1db86.png)
 
+# キノコ
+![image](https://user-images.githubusercontent.com/22285365/128168032-06544f20-271e-4ab5-b76b-cfbc3c58de7f.png)
+
 ## 参考URL
 https://learning.unity3d.jp/342/
